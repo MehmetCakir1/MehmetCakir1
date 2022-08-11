@@ -1,12 +1,12 @@
 
 # Hello there!!! It is really nice to see you!!!!! 😎
 
-- 👋 I’m Mehmet
+- 👋 I’m __Mehmet__
 - 👀 I’m interested in Web Development 
 - 🌱 I’ve been learning HTML, CSS, Bootstrap, JavaScript, SQL,REACT
 - 💬 Ask me anything about Tech World.
-- 📫 You can reach me in here[LinkedIn](https://www.linkedin.com/in/mehmet%C3%A7ak%C4%B1r43)
-
+- 📫 You can reach me in here ___[LinkedIn](https://www.linkedin.com/in/mehmet%C3%A7ak%C4%B1r43)___
+---
 ## Languages & Tools  🛠
 
 <p align="left">
