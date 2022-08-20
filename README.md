@@ -3,7 +3,7 @@
 
 - 👋 I’m __Mehmet__
 - 👀 I’m interested in Web Development 
-- 🌱 I’ve been learning HTML, CSS, Bootstrap, JavaScript, SQL,REACT
+- 🌱 I’ve been learning Django
 - 💬 Ask me anything about Tech World.
 - 📫 You can reach me in here ___[LinkedIn](https://www.linkedin.com/in/mehmet%C3%A7ak%C4%B1r43)___
 ---
