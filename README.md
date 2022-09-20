@@ -3,7 +3,7 @@
 
 - 👋 I’m __Mehmet__
 - 👀 I’m interested in Web Development 
-- 🌱 I’ve been learning Django
+- 🌱 I am a frondt-end Developer
 - 💬 Ask me anything about Tech World.
 - 💻 My portfolio link is here ___[Portfolio](https://my-portfolio-mehmet.vercel.app/)___
 - 📫 You can reach me in here ___[LinkedIn](https://www.linkedin.com/in/mehmet%C3%A7ak%C4%B1r43)___
