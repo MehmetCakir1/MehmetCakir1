@@ -1,5 +1,5 @@
 
-# Hello there!!! It is really nice to see you!!!!! 😎
+# Hello there!!! 😎
 
 - 👋 I’m __Mehmet__
 - 👀 I’m interested in Web Development 
