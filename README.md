@@ -21,6 +21,7 @@
   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>
    <a href="https://sass-lang.com/" target="_blank"> <img src="https://camo.githubusercontent.com/c602d76c1c65d2335341005c35ca3ffe68738160ecb66be42850e848e1cc4d3b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f736173732e706e67" alt="react" width="50"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="react" width="50"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="react" width="50"/> </a>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MehmetCakir1&theme=codeSTACKr&show_icons=true" >
