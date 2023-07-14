@@ -22,7 +22,7 @@
    <a href="https://sass-lang.com/" target="_blank"> <img src="https://camo.githubusercontent.com/c602d76c1c65d2335341005c35ca3ffe68738160ecb66be42850e848e1cc4d3b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f736173732e706e67" alt="sass" width="50"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss" width="50"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="50"/> </a>
-   <a href="r" target="_blank"> <img src="[https://i.ytimg.com/vi/C2HU3AY7IkU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGkgaShpMA8=&rs=AOn4CLD8wE30sgw7vAzF4_oS661r4VB3vg](https://gorzelinski.com/static/1db41e3ecd311724a15306b270d99dd9/6e87d/next-js-logo.png)" alt="nextjs" width="50" /> </a>
+   <a href="r" target="_blank"> <img src="https://gorzelinski.com/static/1db41e3ecd311724a15306b270d99dd9/6e87d/next-js-logo.png" alt="nextjs" width="50" /> </a>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MehmetCakir1&theme=codeSTACKr&show_icons=true" >
